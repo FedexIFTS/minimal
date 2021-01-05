@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./https://github.com/FedexIFTS/minimal/blob/master/2013-06-01-scribble.md).
 
 There should be whitespace between paragraphs.
 
